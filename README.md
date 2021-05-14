@@ -1,1 +1,1 @@
-# Conditional-GAN
+# Mnist-GAN
