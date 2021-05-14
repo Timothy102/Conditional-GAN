@@ -17,8 +17,7 @@ GANs are effective at image synthesis, that is, generating new examples of image
 
 For example, the MNIST handwritten digit dataset has class labels of the corresponding integers, the CIFAR-10 small object photograph dataset has class labels for the corresponding objects in the photographs, and the Fashion-MNIST clothing dataset has class labels for the corresponding items of clothing.
 
-<img src="https://github.com/Timothy102/MNIST-GAN/blob/main/images/all_numbers.png" alt="drawing" width="750"/
->
+<img src="https://github.com/Timothy102/Mnist-GAN/blob/main/images/all_numbers.png" alt="drawing" width="750"/>
 
 # Contact
 
