@@ -27,5 +27,5 @@ Medium : https://cvetko-tim.medium.com/
 
 # Acknowledgments
 
-Coursera Specialization by Deep Learning : https://www.coursera.org/specializations/generative-adversarial-networks-gans?
+Coursera Specialization by Deep Learning : https://www.coursera.org/specializations/generative-adversarial-networks-gans
 
