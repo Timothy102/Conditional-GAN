@@ -19,11 +19,12 @@ For example, the MNIST handwritten digit dataset has class labels of the corresp
 
 <img src="https://github.com/Timothy102/Mnist-GAN/blob/main/images/all_numbers.png" alt="drawing" width="750"/>
 
-# Contact
+## Contact
+Please, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/tim-cvetko-32842a1a6/) or [Gmail](tim@metawaveai.com).
 
-LinkedIn : https://www.linkedin.com/in/tim-cvetko-32842a1a6/
+## License
 
-Medium : https://cvetko-tim.medium.com/
+Licensed under the MIT [LICENSE](LICENSE)
 
 # Acknowledgments
 
